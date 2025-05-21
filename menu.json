@@ -1,0 +1,1627 @@
+{
+  "categories": [
+    {
+      "id": "signature_kokteyller",
+      "tr": "Signature Kokteyller",
+      "en": "Signature Kokteyller",
+      "items": [
+        {
+          "tr": {
+            "name": "Lush Sorrel",
+            "desc": "Lush Sorrel özel sunumuyla hazırlanır.",
+            "price": "670₺"
+          },
+          "en": {
+            "name": "Lush Sorrel",
+            "desc": "Lush Sorrel is specially prepared with unique presentation.",
+            "price": "670₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Ocean Breeze",
+            "desc": "Ocean Breeze özel sunumuyla hazırlanır.",
+            "price": "670₺"
+          },
+          "en": {
+            "name": "Ocean Breeze",
+            "desc": "Ocean Breeze is specially prepared with unique presentation.",
+            "price": "670₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Golden Tropik",
+            "desc": "Golden Tropik özel sunumuyla hazırlanır.",
+            "price": "670₺"
+          },
+          "en": {
+            "name": "Golden Tropik",
+            "desc": "Golden Tropik is specially prepared with unique presentation.",
+            "price": "670₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Mystic Butterfly",
+            "desc": "Mystic Butterfly özel sunumuyla hazırlanır.",
+            "price": "670₺"
+          },
+          "en": {
+            "name": "Mystic Butterfly",
+            "desc": "Mystic Butterfly is specially prepared with unique presentation.",
+            "price": "670₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Kiwi Wingle",
+            "desc": "Kiwi Wingle özel sunumuyla hazırlanır.",
+            "price": "670₺"
+          },
+          "en": {
+            "name": "Kiwi Wingle",
+            "desc": "Kiwi Wingle is specially prepared with unique presentation.",
+            "price": "670₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "şaraplar",
+      "tr": "Şaraplar",
+      "en": "Şaraplar",
+      "items": [
+        {
+          "tr": {
+            "name": "Kadeh Şarap Beyaz",
+            "desc": "Kadeh Şarap Beyaz özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "Glass of White Wine",
+            "desc": "Glass of White Wine is specially prepared with unique presentation.",
+            "price": "350₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Kadeh Şarap Kırmızı",
+            "desc": "Kadeh Şarap Kırmızı özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "Glass of Red Wine",
+            "desc": "Glass of Red Wine is specially prepared with unique presentation.",
+            "price": "350₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Kadeh Şarap Roze",
+            "desc": "Kadeh Şarap Roze özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "Glass of Rosé Wine",
+            "desc": "Glass of Rosé Wine is specially prepared with unique presentation.",
+            "price": "350₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Arykanda Sauvignon Blanc",
+            "desc": "Arykanda Sauvignon Blanc özel sunumuyla hazırlanır.",
+            "price": "1720₺"
+          },
+          "en": {
+            "name": "Arykanda Sauvignon Blanc",
+            "desc": "Arykanda Sauvignon Blanc is specially prepared with unique presentation.",
+            "price": "1720₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Arykanda Chardonnay",
+            "desc": "Arykanda Chardonnay özel sunumuyla hazırlanır.",
+            "price": "1600₺"
+          },
+          "en": {
+            "name": "Arykanda Chardonnay",
+            "desc": "Arykanda Chardonnay is specially prepared with unique presentation.",
+            "price": "1600₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Vineyard Narince",
+            "desc": "Vineyard Narince özel sunumuyla hazırlanır.",
+            "price": "2750₺"
+          },
+          "en": {
+            "name": "Vineyard Narince",
+            "desc": "Vineyard Narince is specially prepared with unique presentation.",
+            "price": "2750₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Kızılbel Cabernet Sauvignon / Boğazkere",
+            "desc": "Kızılbel Cabernet Sauvignon / Boğazkere özel sunumuyla hazırlanır.",
+            "price": "1550₺"
+          },
+          "en": {
+            "name": "Kızılbel Cabernet Sauvignon / Boğazkere",
+            "desc": "Kızılbel Cabernet Sauvignon / Boğazkere is specially prepared with unique presentation.",
+            "price": "1550₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Kızılbel Merlot Syrah Öküzgözü",
+            "desc": "Kızılbel Merlot Syrah Öküzgözü özel sunumuyla hazırlanır.",
+            "price": "1550₺"
+          },
+          "en": {
+            "name": "Kızılbel Merlot Syrah Öküzgözü",
+            "desc": "Kızılbel Merlot Syrah Öküzgözü is specially prepared with unique presentation.",
+            "price": "1550₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Isında Kalecik Rose",
+            "desc": "Isında Kalecik Rose özel sunumuyla hazırlanır.",
+            "price": "1400₺"
+          },
+          "en": {
+            "name": "Isında Kalecik Rose",
+            "desc": "Isında Kalecik Rose is specially prepared with unique presentation.",
+            "price": "1400₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Likya Fox Tilki Kuyruğu Blush",
+            "desc": "Likya Fox Tilki Kuyruğu Blush özel sunumuyla hazırlanır.",
+            "price": "1400₺"
+          },
+          "en": {
+            "name": "Likya Fox Tilki Kuyruğu Blush",
+            "desc": "Likya Fox Tilki Kuyruğu Blush is specially prepared with unique presentation.",
+            "price": "1400₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vodka",
+      "tr": "Vodka",
+      "en": "Vodka",
+      "items": [
+        {
+          "tr": {
+            "name": "İstanbul Blue",
+            "desc": "İstanbul Blue özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "İstanbul Blue",
+            "desc": "İstanbul Blue is specially prepared with unique presentation.",
+            "price": "350₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Sarema",
+            "desc": "Sarema özel sunumuyla hazırlanır.",
+            "price": "400₺"
+          },
+          "en": {
+            "name": "Sarema",
+            "desc": "Sarema is specially prepared with unique presentation.",
+            "price": "400₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Smirnoff",
+            "desc": "Smirnoff özel sunumuyla hazırlanır.",
+            "price": "450₺"
+          },
+          "en": {
+            "name": "Smirnoff",
+            "desc": "Smirnoff is specially prepared with unique presentation.",
+            "price": "450₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Ketel One",
+            "desc": "Ketel One özel sunumuyla hazırlanır.",
+            "price": "500₺"
+          },
+          "en": {
+            "name": "Ketel One",
+            "desc": "Ketel One is specially prepared with unique presentation.",
+            "price": "500₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Koskenkorva (Nane, Limon, Vanilya)",
+            "desc": "Koskenkorva (Nane, Limon, Vanilya) özel sunumuyla hazırlanır.",
+            "price": "550₺"
+          },
+          "en": {
+            "name": "Koskenkorva (Nane, Limon, Vanilya)",
+            "desc": "Koskenkorva (Nane, Limon, Vanilya) is specially prepared with unique presentation.",
+            "price": "550₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "viski",
+      "tr": "Viski",
+      "en": "Viski",
+      "items": [
+        {
+          "tr": {
+            "name": "Jim Beam",
+            "desc": "Jim Beam özel sunumuyla hazırlanır.",
+            "price": "500₺"
+          },
+          "en": {
+            "name": "Jim Beam",
+            "desc": "Jim Beam is specially prepared with unique presentation.",
+            "price": "500₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "JW Black Label",
+            "desc": "JW Black Label özel sunumuyla hazırlanır.",
+            "price": "600₺"
+          },
+          "en": {
+            "name": "JW Black Label",
+            "desc": "JW Black Label is specially prepared with unique presentation.",
+            "price": "600₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "JW Red Label",
+            "desc": "JW Red Label özel sunumuyla hazırlanır.",
+            "price": "600₺"
+          },
+          "en": {
+            "name": "JW Red Label",
+            "desc": "JW Red Label is specially prepared with unique presentation.",
+            "price": "600₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Jack Daniels",
+            "desc": "Jack Daniels özel sunumuyla hazırlanır.",
+            "price": "560₺"
+          },
+          "en": {
+            "name": "Jack Daniels",
+            "desc": "Jack Daniels is specially prepared with unique presentation.",
+            "price": "560₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Talisker",
+            "desc": "Talisker özel sunumuyla hazırlanır.",
+            "price": "800₺"
+          },
+          "en": {
+            "name": "Talisker",
+            "desc": "Talisker is specially prepared with unique presentation.",
+            "price": "800₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Ballantine’s",
+            "desc": "Ballantine’s özel sunumuyla hazırlanır.",
+            "price": "700₺"
+          },
+          "en": {
+            "name": "Ballantine’s",
+            "desc": "Ballantine’s is specially prepared with unique presentation.",
+            "price": "700₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cin",
+      "tr": "Cin",
+      "en": "Cin",
+      "items": [
+        {
+          "tr": {
+            "name": "Gilbey",
+            "desc": "Gilbey özel sunumuyla hazırlanır.",
+            "price": "450₺"
+          },
+          "en": {
+            "name": "Gilbey",
+            "desc": "Gilbey is specially prepared with unique presentation.",
+            "price": "450₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Gordon’s",
+            "desc": "Gordon’s özel sunumuyla hazırlanır.",
+            "price": "450₺"
+          },
+          "en": {
+            "name": "Gordon’s",
+            "desc": "Gordon’s is specially prepared with unique presentation.",
+            "price": "450₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Gordon’s Lemon",
+            "desc": "Gordon’s Lemon özel sunumuyla hazırlanır.",
+            "price": "500₺"
+          },
+          "en": {
+            "name": "Gordon’s Lemon",
+            "desc": "Gordon’s Lemon is specially prepared with unique presentation.",
+            "price": "500₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Stirling London Dry",
+            "desc": "Stirling London Dry özel sunumuyla hazırlanır.",
+            "price": "400₺"
+          },
+          "en": {
+            "name": "Stirling London Dry",
+            "desc": "Stirling London Dry is specially prepared with unique presentation.",
+            "price": "400₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Roku",
+            "desc": "Roku özel sunumuyla hazırlanır.",
+            "price": "400₺"
+          },
+          "en": {
+            "name": "Roku",
+            "desc": "Roku is specially prepared with unique presentation.",
+            "price": "400₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Stirling Pink",
+            "desc": "Stirling Pink özel sunumuyla hazırlanır.",
+            "price": "450₺"
+          },
+          "en": {
+            "name": "Stirling Pink",
+            "desc": "Stirling Pink is specially prepared with unique presentation.",
+            "price": "450₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Stirling Pink 35 cl",
+            "desc": "Stirling Pink 35 cl özel sunumuyla hazırlanır.",
+            "price": "1500₺"
+          },
+          "en": {
+            "name": "Stirling Pink 35 cl",
+            "desc": "Stirling Pink 35 cl is specially prepared with unique presentation.",
+            "price": "1500₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Gordon Pink",
+            "desc": "Gordon Pink özel sunumuyla hazırlanır.",
+            "price": "600₺"
+          },
+          "en": {
+            "name": "Gordon Pink",
+            "desc": "Gordon Pink is specially prepared with unique presentation.",
+            "price": "600₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shot",
+      "tr": "Shot",
+      "en": "Shot",
+      "items": [
+        {
+          "tr": {
+            "name": "Tekila Shot",
+            "desc": "Tekila Shot özel sunumuyla hazırlanır.",
+            "price": "300₺"
+          },
+          "en": {
+            "name": "Tekila Shot",
+            "desc": "Tekila Shot is specially prepared with unique presentation.",
+            "price": "300₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Jagger Shot",
+            "desc": "Jagger Shot özel sunumuyla hazırlanır.",
+            "price": "360₺"
+          },
+          "en": {
+            "name": "Jagger Shot",
+            "desc": "Jagger Shot is specially prepared with unique presentation.",
+            "price": "360₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "B52",
+            "desc": "B52 özel sunumuyla hazırlanır.",
+            "price": "300₺"
+          },
+          "en": {
+            "name": "B52",
+            "desc": "B52 is specially prepared with unique presentation.",
+            "price": "300₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Malibu Sunset",
+            "desc": "Malibu Sunset özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "Malibu Sunset",
+            "desc": "Malibu Sunset is specially prepared with unique presentation.",
+            "price": "350₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rom",
+      "tr": "Rom",
+      "en": "Rom",
+      "items": [
+        {
+          "tr": {
+            "name": "Old Captain",
+            "desc": "Old Captain özel sunumuyla hazırlanır.",
+            "price": "370₺"
+          },
+          "en": {
+            "name": "Old Captain",
+            "desc": "Old Captain is specially prepared with unique presentation.",
+            "price": "370₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Old Captain Black",
+            "desc": "Old Captain Black özel sunumuyla hazırlanır.",
+            "price": "370₺"
+          },
+          "en": {
+            "name": "Old Captain Black",
+            "desc": "Old Captain Black is specially prepared with unique presentation.",
+            "price": "370₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Captain Morgan Gold",
+            "desc": "Captain Morgan Gold özel sunumuyla hazırlanır.",
+            "price": "475₺"
+          },
+          "en": {
+            "name": "Captain Morgan Gold",
+            "desc": "Captain Morgan Gold is specially prepared with unique presentation.",
+            "price": "475₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Carribica",
+            "desc": "Carribica özel sunumuyla hazırlanır.",
+            "price": "500₺"
+          },
+          "en": {
+            "name": "Carribica",
+            "desc": "Carribica is specially prepared with unique presentation.",
+            "price": "500₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Bacardi",
+            "desc": "Bacardi özel sunumuyla hazırlanır.",
+            "price": "600₺"
+          },
+          "en": {
+            "name": "Bacardi",
+            "desc": "Bacardi is specially prepared with unique presentation.",
+            "price": "600₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rakı",
+      "tr": "Rakı",
+      "en": "Rakı",
+      "items": [
+        {
+          "tr": {
+            "name": "Yeni Rakı Yeni Seri 35cl",
+            "desc": "Yeni Rakı Yeni Seri 35cl özel sunumuyla hazırlanır.",
+            "price": "1300₺"
+          },
+          "en": {
+            "name": "Yeni Rakı Yeni Seri 35cl",
+            "desc": "Yeni Rakı Yeni Seri 35cl is specially prepared with unique presentation.",
+            "price": "1300₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Yeni Rakı Yeni Seri 50cl",
+            "desc": "Yeni Rakı Yeni Seri 50cl özel sunumuyla hazırlanır.",
+            "price": "1750₺"
+          },
+          "en": {
+            "name": "Yeni Rakı Yeni Seri 50cl",
+            "desc": "Yeni Rakı Yeni Seri 50cl is specially prepared with unique presentation.",
+            "price": "1750₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Yeni Rakı Yeni Seri 70cl",
+            "desc": "Yeni Rakı Yeni Seri 70cl özel sunumuyla hazırlanır.",
+            "price": "2300₺"
+          },
+          "en": {
+            "name": "Yeni Rakı Yeni Seri 70cl",
+            "desc": "Yeni Rakı Yeni Seri 70cl is specially prepared with unique presentation.",
+            "price": "2300₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Tekirdağ Altın Seri 35cl",
+            "desc": "Tekirdağ Altın Seri 35cl özel sunumuyla hazırlanır.",
+            "price": "1400₺"
+          },
+          "en": {
+            "name": "Tekirdağ Altın Seri 35cl",
+            "desc": "Tekirdağ Altın Seri 35cl is specially prepared with unique presentation.",
+            "price": "1400₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Tekirdağ Altın Seri 50cl",
+            "desc": "Tekirdağ Altın Seri 50cl özel sunumuyla hazırlanır.",
+            "price": "1850₺"
+          },
+          "en": {
+            "name": "Tekirdağ Altın Seri 50cl",
+            "desc": "Tekirdağ Altın Seri 50cl is specially prepared with unique presentation.",
+            "price": "1850₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Tekirdağ Altın Seri 70cl",
+            "desc": "Tekirdağ Altın Seri 70cl özel sunumuyla hazırlanır.",
+            "price": "2400₺"
+          },
+          "en": {
+            "name": "Tekirdağ Altın Seri 70cl",
+            "desc": "Tekirdağ Altın Seri 70cl is specially prepared with unique presentation.",
+            "price": "2400₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Rakı Tek",
+            "desc": "Rakı Tek özel sunumuyla hazırlanır.",
+            "price": "300₺"
+          },
+          "en": {
+            "name": "Rakı Tek",
+            "desc": "Rakı Tek is specially prepared with unique presentation.",
+            "price": "300₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Rakı Duble",
+            "desc": "Rakı Duble özel sunumuyla hazırlanır.",
+            "price": "500₺"
+          },
+          "en": {
+            "name": "Rakı Duble",
+            "desc": "Rakı Duble is specially prepared with unique presentation.",
+            "price": "500₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tekila",
+      "tr": "Tekila",
+      "en": "Tekila",
+      "items": [
+        {
+          "tr": {
+            "name": "Sierra",
+            "desc": "Sierra özel sunumuyla hazırlanır.",
+            "price": "400₺"
+          },
+          "en": {
+            "name": "Sierra",
+            "desc": "Sierra is specially prepared with unique presentation.",
+            "price": "400₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Olmeca",
+            "desc": "Olmeca özel sunumuyla hazırlanır.",
+            "price": "500₺"
+          },
+          "en": {
+            "name": "Olmeca",
+            "desc": "Olmeca is specially prepared with unique presentation.",
+            "price": "500₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Tropical Chili",
+            "desc": "Tropical Chili özel sunumuyla hazırlanır.",
+            "price": "500₺"
+          },
+          "en": {
+            "name": "Tropical Chili",
+            "desc": "Tropical Chili is specially prepared with unique presentation.",
+            "price": "500₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Don Julio",
+            "desc": "Don Julio özel sunumuyla hazırlanır.",
+            "price": "625₺"
+          },
+          "en": {
+            "name": "Don Julio",
+            "desc": "Don Julio is specially prepared with unique presentation.",
+            "price": "625₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Patron",
+            "desc": "Patron özel sunumuyla hazırlanır.",
+            "price": "700₺"
+          },
+          "en": {
+            "name": "Patron",
+            "desc": "Patron is specially prepared with unique presentation.",
+            "price": "700₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "konyak",
+      "tr": "Konyak",
+      "en": "Konyak",
+      "items": [
+        {
+          "tr": {
+            "name": "Courvoisier VS",
+            "desc": "Courvoisier VS özel sunumuyla hazırlanır.",
+            "price": "560₺"
+          },
+          "en": {
+            "name": "Courvoisier VS",
+            "desc": "Courvoisier VS is specially prepared with unique presentation.",
+            "price": "560₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "atıştırmalık",
+      "tr": "Atıştırmalık",
+      "en": "Atıştırmalık",
+      "items": [
+        {
+          "tr": {
+            "name": "Kuruyemiş",
+            "desc": "Kuruyemiş özel sunumuyla hazırlanır.",
+            "price": "200₺"
+          },
+          "en": {
+            "name": "Kuruyemiş",
+            "desc": "Kuruyemiş is specially prepared with unique presentation.",
+            "price": "200₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Beyaz Peynir (2 Dilim)",
+            "desc": "Beyaz Peynir (2 Dilim) özel sunumuyla hazırlanır.",
+            "price": "260₺"
+          },
+          "en": {
+            "name": "Beyaz Peynir (2 Dilim)",
+            "desc": "Beyaz Peynir (2 Dilim) is specially prepared with unique presentation.",
+            "price": "260₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Söğüş (Domates – Salatalık)",
+            "desc": "Söğüş (Domates – Salatalık) özel sunumuyla hazırlanır.",
+            "price": "150₺"
+          },
+          "en": {
+            "name": "Söğüş (Domates – Salatalık)",
+            "desc": "Söğüş (Domates – Salatalık) is specially prepared with unique presentation.",
+            "price": "150₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Yoğurt",
+            "desc": "Yoğurt özel sunumuyla hazırlanır.",
+            "price": "100₺"
+          },
+          "en": {
+            "name": "Yoğurt",
+            "desc": "Yoğurt is specially prepared with unique presentation.",
+            "price": "100₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "soğuk_i̇çecekler",
+      "tr": "Soğuk İçecekler",
+      "en": "Soğuk İçecekler",
+      "items": [
+        {
+          "tr": {
+            "name": "Küçük Su",
+            "desc": "Küçük Su özel sunumuyla hazırlanır.",
+            "price": "40₺"
+          },
+          "en": {
+            "name": "Küçük Su",
+            "desc": "Küçük Su is specially prepared with unique presentation.",
+            "price": "40₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Büyük Su",
+            "desc": "Büyük Su özel sunumuyla hazırlanır.",
+            "price": "70₺"
+          },
+          "en": {
+            "name": "Büyük Su",
+            "desc": "Büyük Su is specially prepared with unique presentation.",
+            "price": "70₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Soda",
+            "desc": "Soda özel sunumuyla hazırlanır.",
+            "price": "50₺"
+          },
+          "en": {
+            "name": "Soda",
+            "desc": "Soda is specially prepared with unique presentation.",
+            "price": "50₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Coca Cola / Cola Zero",
+            "desc": "Coca Cola / Cola Zero özel sunumuyla hazırlanır.",
+            "price": "90₺"
+          },
+          "en": {
+            "name": "Coca Cola / Cola Zero",
+            "desc": "Coca Cola / Cola Zero is specially prepared with unique presentation.",
+            "price": "90₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Fanta / Sprite",
+            "desc": "Fanta / Sprite özel sunumuyla hazırlanır.",
+            "price": "90₺"
+          },
+          "en": {
+            "name": "Fanta / Sprite",
+            "desc": "Fanta / Sprite is specially prepared with unique presentation.",
+            "price": "90₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Ayran Naneli / Fesleğenli",
+            "desc": "Ayran Naneli / Fesleğenli özel sunumuyla hazırlanır.",
+            "price": "80₺"
+          },
+          "en": {
+            "name": "Ayran Naneli / Fesleğenli",
+            "desc": "Ayran Naneli / Fesleğenli is specially prepared with unique presentation.",
+            "price": "80₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Milkshake (Çilek, Çikolata, Muz, Karamel, Vanilya)",
+            "desc": "Milkshake (Çilek, Çikolata, Muz, Karamel, Vanilya) özel sunumuyla hazırlanır.",
+            "price": "200₺"
+          },
+          "en": {
+            "name": "Milkshake (Çilek, Çikolata, Muz, Karamel, Vanilya)",
+            "desc": "Milkshake (Çilek, Çikolata, Muz, Karamel, Vanilya) is specially prepared with unique presentation.",
+            "price": "200₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Schweppes",
+            "desc": "Schweppes özel sunumuyla hazırlanır.",
+            "price": "90₺"
+          },
+          "en": {
+            "name": "Schweppes",
+            "desc": "Schweppes is specially prepared with unique presentation.",
+            "price": "90₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Ice Tea (Limon / Şeftali)",
+            "desc": "Ice Tea (Limon / Şeftali) özel sunumuyla hazırlanır.",
+            "price": "90₺"
+          },
+          "en": {
+            "name": "Ice Tea (Limon / Şeftali)",
+            "desc": "Ice Tea (Limon / Şeftali) is specially prepared with unique presentation.",
+            "price": "90₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Churchill",
+            "desc": "Churchill özel sunumuyla hazırlanır.",
+            "price": "80₺"
+          },
+          "en": {
+            "name": "Churchill",
+            "desc": "Churchill is specially prepared with unique presentation.",
+            "price": "80₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Taze Sıkılmış Meyve Suları",
+            "desc": "Taze Sıkılmış Meyve Suları özel sunumuyla hazırlanır.",
+            "price": "250₺"
+          },
+          "en": {
+            "name": "Taze Sıkılmış Meyve Suları",
+            "desc": "Taze Sıkılmış Meyve Suları is specially prepared with unique presentation.",
+            "price": "250₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Ev Yapımı Limonata",
+            "desc": "Ev Yapımı Limonata özel sunumuyla hazırlanır.",
+            "price": "180₺"
+          },
+          "en": {
+            "name": "Ev Yapımı Limonata",
+            "desc": "Ev Yapımı Limonata is specially prepared with unique presentation.",
+            "price": "180₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Frozen (Orman Meyveli / Mango)",
+            "desc": "Frozen (Orman Meyveli / Mango) özel sunumuyla hazırlanır.",
+            "price": "300₺"
+          },
+          "en": {
+            "name": "Frozen (Orman Meyveli / Mango)",
+            "desc": "Frozen (Orman Meyveli / Mango) is specially prepared with unique presentation.",
+            "price": "300₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "detox",
+      "tr": "Detox",
+      "en": "Detox",
+      "items": [
+        {
+          "tr": {
+            "name": "Köken",
+            "desc": "Köken özel sunumuyla hazırlanır.",
+            "price": "370₺"
+          },
+          "en": {
+            "name": "Köken",
+            "desc": "Köken is specially prepared with unique presentation.",
+            "price": "370₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Green Detox",
+            "desc": "Green Detox özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "Green Detox",
+            "desc": "Green Detox is specially prepared with unique presentation.",
+            "price": "350₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Retinol Detox",
+            "desc": "Retinol Detox özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "Retinol Detox",
+            "desc": "Retinol Detox is specially prepared with unique presentation.",
+            "price": "350₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Bloody Detox",
+            "desc": "Bloody Detox özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "Bloody Detox",
+            "desc": "Bloody Detox is specially prepared with unique presentation.",
+            "price": "350₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kokteyller",
+      "tr": "Kokteyller",
+      "en": "Kokteyller",
+      "items": [
+        {
+          "tr": {
+            "name": "Gin Tonik / Soda",
+            "desc": "Gin Tonik / Soda özel sunumuyla hazırlanır.",
+            "price": "480₺"
+          },
+          "en": {
+            "name": "Gin Tonik / Soda",
+            "desc": "Gin Tonik / Soda is specially prepared with unique presentation.",
+            "price": "480₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Mojito",
+            "desc": "Mojito özel sunumuyla hazırlanır.",
+            "price": "550₺"
+          },
+          "en": {
+            "name": "Mojito",
+            "desc": "Mojito is specially prepared with unique presentation.",
+            "price": "550₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Margarita",
+            "desc": "Margarita özel sunumuyla hazırlanır.",
+            "price": "550₺"
+          },
+          "en": {
+            "name": "Margarita",
+            "desc": "Margarita is specially prepared with unique presentation.",
+            "price": "550₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Cosmopolitan",
+            "desc": "Cosmopolitan özel sunumuyla hazırlanır.",
+            "price": "550₺"
+          },
+          "en": {
+            "name": "Cosmopolitan",
+            "desc": "Cosmopolitan is specially prepared with unique presentation.",
+            "price": "550₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Espresso Martini",
+            "desc": "Espresso Martini özel sunumuyla hazırlanır.",
+            "price": "550₺"
+          },
+          "en": {
+            "name": "Espresso Martini",
+            "desc": "Espresso Martini is specially prepared with unique presentation.",
+            "price": "550₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Lynchburg Lemonade",
+            "desc": "Lynchburg Lemonade özel sunumuyla hazırlanır.",
+            "price": "570₺"
+          },
+          "en": {
+            "name": "Lynchburg Lemonade",
+            "desc": "Lynchburg Lemonade is specially prepared with unique presentation.",
+            "price": "570₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Whiskey Sour",
+            "desc": "Whiskey Sour özel sunumuyla hazırlanır.",
+            "price": "570₺"
+          },
+          "en": {
+            "name": "Whiskey Sour",
+            "desc": "Whiskey Sour is specially prepared with unique presentation.",
+            "price": "570₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Aperol Spritz",
+            "desc": "Aperol Spritz özel sunumuyla hazırlanır.",
+            "price": "570₺"
+          },
+          "en": {
+            "name": "Aperol Spritz",
+            "desc": "Aperol Spritz is specially prepared with unique presentation.",
+            "price": "570₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Gin Fizz",
+            "desc": "Gin Fizz özel sunumuyla hazırlanır.",
+            "price": "530₺"
+          },
+          "en": {
+            "name": "Gin Fizz",
+            "desc": "Gin Fizz is specially prepared with unique presentation.",
+            "price": "530₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Long Island Iced Tea",
+            "desc": "Long Island Iced Tea özel sunumuyla hazırlanır.",
+            "price": "650₺"
+          },
+          "en": {
+            "name": "Long Island Iced Tea",
+            "desc": "Long Island Iced Tea is specially prepared with unique presentation.",
+            "price": "650₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Pina Colada",
+            "desc": "Pina Colada özel sunumuyla hazırlanır.",
+            "price": "630₺"
+          },
+          "en": {
+            "name": "Pina Colada",
+            "desc": "Pina Colada is specially prepared with unique presentation.",
+            "price": "630₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Irish Coffee",
+            "desc": "Irish Coffee özel sunumuyla hazırlanır.",
+            "price": "550₺"
+          },
+          "en": {
+            "name": "Irish Coffee",
+            "desc": "Irish Coffee is specially prepared with unique presentation.",
+            "price": "550₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "biralar",
+      "tr": "Biralar",
+      "en": "Biralar",
+      "items": [
+        {
+          "tr": {
+            "name": "Tuborg Gold",
+            "desc": "Tuborg Gold özel sunumuyla hazırlanır.",
+            "price": "220₺"
+          },
+          "en": {
+            "name": "Tuborg Gold",
+            "desc": "Tuborg Gold is specially prepared with unique presentation.",
+            "price": "220₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Carlsberg",
+            "desc": "Carlsberg özel sunumuyla hazırlanır.",
+            "price": "220₺"
+          },
+          "en": {
+            "name": "Carlsberg",
+            "desc": "Carlsberg is specially prepared with unique presentation.",
+            "price": "220₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Tuborg Amber",
+            "desc": "Tuborg Amber özel sunumuyla hazırlanır.",
+            "price": "220₺"
+          },
+          "en": {
+            "name": "Tuborg Amber",
+            "desc": "Tuborg Amber is specially prepared with unique presentation.",
+            "price": "220₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Tuborg Filtresiz",
+            "desc": "Tuborg Filtresiz özel sunumuyla hazırlanır.",
+            "price": "220₺"
+          },
+          "en": {
+            "name": "Tuborg Filtresiz",
+            "desc": "Tuborg Filtresiz is specially prepared with unique presentation.",
+            "price": "220₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Frederik Indian Pale",
+            "desc": "Frederik Indian Pale özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Frederik Indian Pale",
+            "desc": "Frederik Indian Pale is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Frederik Marzen Lager",
+            "desc": "Frederik Marzen Lager özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Frederik Marzen Lager",
+            "desc": "Frederik Marzen Lager is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Frederik Wheat IPA",
+            "desc": "Frederik Wheat IPA özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Frederik Wheat IPA",
+            "desc": "Frederik Wheat IPA is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Frederik Yakima IPA",
+            "desc": "Frederik Yakima IPA özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Frederik Yakima IPA",
+            "desc": "Frederik Yakima IPA is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Frederik Amber",
+            "desc": "Frederik Amber özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Frederik Amber",
+            "desc": "Frederik Amber is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Frederik Brown Ale",
+            "desc": "Frederik Brown Ale özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Frederik Brown Ale",
+            "desc": "Frederik Brown Ale is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Carlsberg Luna",
+            "desc": "Carlsberg Luna özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Carlsberg Luna",
+            "desc": "Carlsberg Luna is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Weihenstephan",
+            "desc": "Weihenstephan özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Weihenstephan",
+            "desc": "Weihenstephan is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Desperados",
+            "desc": "Desperados özel sunumuyla hazırlanır.",
+            "price": "250₺"
+          },
+          "en": {
+            "name": "Desperados",
+            "desc": "Desperados is specially prepared with unique presentation.",
+            "price": "250₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Sol",
+            "desc": "Sol özel sunumuyla hazırlanır.",
+            "price": "225₺"
+          },
+          "en": {
+            "name": "Sol",
+            "desc": "Sol is specially prepared with unique presentation.",
+            "price": "225₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prosecco",
+      "tr": "Prosecco",
+      "en": "Prosecco",
+      "items": [
+        {
+          "tr": {
+            "name": "Giotti",
+            "desc": "Giotti özel sunumuyla hazırlanır.",
+            "price": "600₺"
+          },
+          "en": {
+            "name": "Giotti",
+            "desc": "Giotti is specially prepared with unique presentation.",
+            "price": "600₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Colasse",
+            "desc": "Colasse özel sunumuyla hazırlanır.",
+            "price": "550₺"
+          },
+          "en": {
+            "name": "Colasse",
+            "desc": "Colasse is specially prepared with unique presentation.",
+            "price": "550₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pizza",
+      "tr": "Pizza",
+      "en": "Pizza",
+      "items": [
+        {
+          "tr": {
+            "name": "Ton Balıklı Pizza",
+            "desc": "Ton Balıklı Pizza özel sunumuyla hazırlanır.",
+            "price": "580₺"
+          },
+          "en": {
+            "name": "Ton Balıklı Pizza",
+            "desc": "Ton Balıklı Pizza is specially prepared with unique presentation.",
+            "price": "580₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Margarita Pizza",
+            "desc": "Margarita Pizza özel sunumuyla hazırlanır.",
+            "price": "480₺"
+          },
+          "en": {
+            "name": "Margarita Pizza",
+            "desc": "Margarita Pizza is specially prepared with unique presentation.",
+            "price": "480₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Pepperoni Pizza",
+            "desc": "Pepperoni Pizza özel sunumuyla hazırlanır.",
+            "price": "620₺"
+          },
+          "en": {
+            "name": "Pepperoni Pizza",
+            "desc": "Pepperoni Pizza is specially prepared with unique presentation.",
+            "price": "620₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "BBQ Tavuklu Pizza",
+            "desc": "BBQ Tavuklu Pizza özel sunumuyla hazırlanır.",
+            "price": "580₺"
+          },
+          "en": {
+            "name": "BBQ Tavuklu Pizza",
+            "desc": "BBQ Tavuklu Pizza is specially prepared with unique presentation.",
+            "price": "580₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "makarna",
+      "tr": "Makarna",
+      "en": "Makarna",
+      "items": [
+        {
+          "tr": {
+            "name": "Penne Arabiatta",
+            "desc": "Penne Arabiatta özel sunumuyla hazırlanır.",
+            "price": "480₺"
+          },
+          "en": {
+            "name": "Penne Arabiatta",
+            "desc": "Penne Arabiatta is specially prepared with unique presentation.",
+            "price": "480₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Spaghetti Bolognese",
+            "desc": "Spaghetti Bolognese özel sunumuyla hazırlanır.",
+            "price": "560₺"
+          },
+          "en": {
+            "name": "Spaghetti Bolognese",
+            "desc": "Spaghetti Bolognese is specially prepared with unique presentation.",
+            "price": "560₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Fettucini Alfredo",
+            "desc": "Fettucini Alfredo özel sunumuyla hazırlanır.",
+            "price": "590₺"
+          },
+          "en": {
+            "name": "Fettucini Alfredo",
+            "desc": "Fettucini Alfredo is specially prepared with unique presentation.",
+            "price": "590₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yemek",
+      "tr": "Yemek",
+      "en": "Yemek",
+      "items": [
+        {
+          "tr": {
+            "name": "Hamburger",
+            "desc": "Hamburger özel sunumuyla hazırlanır.",
+            "price": "480₺"
+          },
+          "en": {
+            "name": "Hamburger",
+            "desc": "Hamburger is specially prepared with unique presentation.",
+            "price": "480₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Cheeseburger",
+            "desc": "Cheeseburger özel sunumuyla hazırlanır.",
+            "price": "540₺"
+          },
+          "en": {
+            "name": "Cheeseburger",
+            "desc": "Cheeseburger is specially prepared with unique presentation.",
+            "price": "540₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Izgara Köfte",
+            "desc": "Izgara Köfte özel sunumuyla hazırlanır.",
+            "price": "550₺"
+          },
+          "en": {
+            "name": "Izgara Köfte",
+            "desc": "Izgara Köfte is specially prepared with unique presentation.",
+            "price": "550₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Köy Tavuğu",
+            "desc": "Köy Tavuğu özel sunumuyla hazırlanır.",
+            "price": "760₺"
+          },
+          "en": {
+            "name": "Köy Tavuğu",
+            "desc": "Köy Tavuğu is specially prepared with unique presentation.",
+            "price": "760₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Patates Cips",
+            "desc": "Patates Cips özel sunumuyla hazırlanır.",
+            "price": "240₺"
+          },
+          "en": {
+            "name": "Patates Cips",
+            "desc": "Patates Cips is specially prepared with unique presentation.",
+            "price": "240₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Chicken Basket",
+            "desc": "Chicken Basket özel sunumuyla hazırlanır.",
+            "price": "620₺"
+          },
+          "en": {
+            "name": "Chicken Basket",
+            "desc": "Chicken Basket is specially prepared with unique presentation.",
+            "price": "620₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "salata",
+      "tr": "Salata",
+      "en": "Salata",
+      "items": [
+        {
+          "tr": {
+            "name": "Greek Salata",
+            "desc": "Greek Salata özel sunumuyla hazırlanır.",
+            "price": "280₺"
+          },
+          "en": {
+            "name": "Greek Salata",
+            "desc": "Greek Salata is specially prepared with unique presentation.",
+            "price": "280₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Ton Balıklı Akdeniz Salata",
+            "desc": "Ton Balıklı Akdeniz Salata özel sunumuyla hazırlanır.",
+            "price": "370₺"
+          },
+          "en": {
+            "name": "Ton Balıklı Akdeniz Salata",
+            "desc": "Ton Balıklı Akdeniz Salata is specially prepared with unique presentation.",
+            "price": "370₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Roka Salatası",
+            "desc": "Roka Salatası özel sunumuyla hazırlanır.",
+            "price": "320₺"
+          },
+          "en": {
+            "name": "Roka Salatası",
+            "desc": "Roka Salatası is specially prepared with unique presentation.",
+            "price": "320₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tatlı",
+      "tr": "Tatlı",
+      "en": "Tatlı",
+      "items": [
+        {
+          "tr": {
+            "name": "Meyve Tabağı",
+            "desc": "Meyve Tabağı özel sunumuyla hazırlanır.",
+            "price": "450₺"
+          },
+          "en": {
+            "name": "Meyve Tabağı",
+            "desc": "Meyve Tabağı is specially prepared with unique presentation.",
+            "price": "450₺"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Yönetim Paneli</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background: #eef2f3; }
+    .login, .panel { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 8px; }
+    h2 { text-align: center; }
+    input, textarea, select, button { width: 100%; padding: 10px; margin: 8px 0; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="login" id="login">
+    <h2>Yönetim Girişi</h2>
+    <input type="password" id="password" placeholder="Şifre" />
+    <button onclick="login()">Giriş Yap</button>
+  </div>
+
+  <div class="panel hidden" id="panel">
+    <h2>Menüye Ürün Ekle</h2>
+    <select id="category"></select>
+    <input id="name_tr" placeholder="Ürün Adı (TR)" />
+    <input id="desc_tr" placeholder="Açıklama (TR)" />
+    <input id="name_en" placeholder="Product Name (EN)" />
+    <input id="desc_en" placeholder="Description (EN)" />
+    <input id="price" placeholder="Fiyat" />
+    <button onclick="addItem()">Ekle</button>
+    <pre id="jsonOutput"></pre>
+  </div>
+
+  <script src="admin.js"></script>
+</body>
+</html>

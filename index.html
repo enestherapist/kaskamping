@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kaş Kamping Menü</title>
+  <style>
+    body { font-family: sans-serif; background: #f5f5f5; margin: 0; padding: 0; }
+    header { background: #222; color: white; padding: 1rem; text-align: center; }
+    .lang { text-align: center; margin: 1rem 0; }
+    .lang button { margin: 0 0.5rem; padding: 0.5rem 1rem; font-weight: bold; }
+    .menu { max-width: 800px; margin: auto; padding: 1rem; }
+    .category { margin-bottom: 2rem; }
+    .category h2 { border-bottom: 2px solid #ccc; padding-bottom: 0.5rem; }
+    .item { background: white; border-radius: 8px; padding: 1rem; margin: 0.5rem 0; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    .item h3 { display: flex; justify-content: space-between; margin: 0 0 0.5rem 0; }
+    .item p { margin: 0; color: #555; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kaş Kamping Menü</h1>
+  </header>
+  <div class="lang">
+    <button onclick="setLang('tr')">Türkçe</button>
+    <button onclick="setLang('en')">English</button>
+  </div>
+  <div class="menu" id="menu"></div>
+  <script src="menu.js"></script>
+</body>
+</html>

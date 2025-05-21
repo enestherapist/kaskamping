@@ -766,8 +766,8 @@
             "price": "200₺"
           },
           "en": {
-            "name": "Kuruyemiş",
-            "desc": "Kuruyemiş is specially prepared with unique presentation.",
+            "name": "Mixed Nuts",
+            "desc": "Mixed Nuts is specially prepared with unique presentation.",
             "price": "200₺"
           }
         },
@@ -778,8 +778,8 @@
             "price": "260₺"
           },
           "en": {
-            "name": "Beyaz Peynir (2 Dilim)",
-            "desc": "Beyaz Peynir (2 Dilim) is specially prepared with unique presentation.",
+            "name": "White Cheese (2 Slices)",
+            "desc": "White Cheese (2 Slices) is specially prepared with unique presentation.",
             "price": "260₺"
           }
         },
@@ -790,8 +790,8 @@
             "price": "150₺"
           },
           "en": {
-            "name": "Söğüş (Domates – Salatalık)",
-            "desc": "Söğüş (Domates – Salatalık) is specially prepared with unique presentation.",
+            "name": "Crudités (Tomato – Cucumber)",
+            "desc": "Crudités (Tomato – Cucumber) is specially prepared with unique presentation.",
             "price": "150₺"
           }
         },
@@ -802,8 +802,8 @@
             "price": "100₺"
           },
           "en": {
-            "name": "Yoğurt",
-            "desc": "Yoğurt is specially prepared with unique presentation.",
+            "name": "Yogurt",
+            "desc": "Yogurt is specially prepared with unique presentation.",
             "price": "100₺"
           }
         }
@@ -821,8 +821,8 @@
             "price": "40₺"
           },
           "en": {
-            "name": "Küçük Su",
-            "desc": "Küçük Su is specially prepared with unique presentation.",
+            "name": "Small Water",
+            "desc": "Small Water is specially prepared with unique presentation.",
             "price": "40₺"
           }
         },
@@ -833,8 +833,8 @@
             "price": "70₺"
           },
           "en": {
-            "name": "Büyük Su",
-            "desc": "Büyük Su is specially prepared with unique presentation.",
+            "name": "Large Water",
+            "desc": "Large Water is specially prepared with unique presentation.",
             "price": "70₺"
           }
         },
@@ -881,8 +881,8 @@
             "price": "80₺"
           },
           "en": {
-            "name": "Ayran Naneli / Fesleğenli",
-            "desc": "Ayran Naneli / Fesleğenli is specially prepared with unique presentation.",
+            "name": "Ayran (Mint / Basil)",
+            "desc": "Ayran (Mint / Basil) is specially prepared with unique presentation.",
             "price": "80₺"
           }
         },
@@ -941,8 +941,8 @@
             "price": "250₺"
           },
           "en": {
-            "name": "Taze Sıkılmış Meyve Suları",
-            "desc": "Taze Sıkılmış Meyve Suları is specially prepared with unique presentation.",
+            "name": "Fresh Squeezed Juices",
+            "desc": "Fresh Squeezed Juices is specially prepared with unique presentation.",
             "price": "250₺"
           }
         },
@@ -953,8 +953,8 @@
             "price": "180₺"
           },
           "en": {
-            "name": "Ev Yapımı Limonata",
-            "desc": "Ev Yapımı Limonata is specially prepared with unique presentation.",
+            "name": "Homemade Lemonade",
+            "desc": "Homemade Lemonade is specially prepared with unique presentation.",
             "price": "180₺"
           }
         },
@@ -965,8 +965,8 @@
             "price": "300₺"
           },
           "en": {
-            "name": "Frozen (Orman Meyveli / Mango)",
-            "desc": "Frozen (Orman Meyveli / Mango) is specially prepared with unique presentation.",
+            "name": "Frozen (Forest Berry / Mango)",
+            "desc": "Frozen (Forest Berry / Mango) is specially prepared with unique presentation.",
             "price": "300₺"
           }
         }
@@ -1226,8 +1226,8 @@
             "price": "220₺"
           },
           "en": {
-            "name": "Tuborg Filtresiz",
-            "desc": "Tuborg Filtresiz is specially prepared with unique presentation.",
+            "name": "Tuborg Unfiltered",
+            "desc": "Tuborg Unfiltered is specially prepared with unique presentation.",
             "price": "220₺"
           }
         },
@@ -1396,8 +1396,8 @@
             "price": "580₺"
           },
           "en": {
-            "name": "Ton Balıklı Pizza",
-            "desc": "Ton Balıklı Pizza is specially prepared with unique presentation.",
+            "name": "Tuna Pizza",
+            "desc": "Tuna Pizza is specially prepared with unique presentation.",
             "price": "580₺"
           }
         },
@@ -1408,8 +1408,8 @@
             "price": "480₺"
           },
           "en": {
-            "name": "Margarita Pizza",
-            "desc": "Margarita Pizza is specially prepared with unique presentation.",
+            "name": "Margherita Pizza",
+            "desc": "Margherita Pizza is specially prepared with unique presentation.",
             "price": "480₺"
           }
         },
@@ -1432,8 +1432,8 @@
             "price": "580₺"
           },
           "en": {
-            "name": "BBQ Tavuklu Pizza",
-            "desc": "BBQ Tavuklu Pizza is specially prepared with unique presentation.",
+            "name": "BBQ Chicken Pizza",
+            "desc": "BBQ Chicken Pizza is specially prepared with unique presentation.",
             "price": "580₺"
           }
         }
@@ -1451,8 +1451,8 @@
             "price": "480₺"
           },
           "en": {
-            "name": "Penne Arabiatta",
-            "desc": "Penne Arabiatta is specially prepared with unique presentation.",
+            "name": "Penne Arrabbiata",
+            "desc": "Penne Arrabbiata is specially prepared with unique presentation.",
             "price": "480₺"
           }
         },
@@ -1475,8 +1475,8 @@
             "price": "590₺"
           },
           "en": {
-            "name": "Fettucini Alfredo",
-            "desc": "Fettucini Alfredo is specially prepared with unique presentation.",
+            "name": "Fettuccine Alfredo",
+            "desc": "Fettuccine Alfredo is specially prepared with unique presentation.",
             "price": "590₺"
           }
         }
@@ -1530,8 +1530,8 @@
             "price": "760₺"
           },
           "en": {
-            "name": "Köy Tavuğu",
-            "desc": "Köy Tavuğu is specially prepared with unique presentation.",
+            "name": "Village Chicken",
+            "desc": "Village Chicken is specially prepared with unique presentation.",
             "price": "760₺"
           }
         },
@@ -1542,8 +1542,8 @@
             "price": "240₺"
           },
           "en": {
-            "name": "Patates Cips",
-            "desc": "Patates Cips is specially prepared with unique presentation.",
+            "name": "Potato Chips",
+            "desc": "Potato Chips is specially prepared with unique presentation.",
             "price": "240₺"
           }
         },
@@ -1573,8 +1573,8 @@
             "price": "280₺"
           },
           "en": {
-            "name": "Greek Salata",
-            "desc": "Greek Salata is specially prepared with unique presentation.",
+            "name": "Greek Salad",
+            "desc": "Greek Salad is specially prepared with unique presentation.",
             "price": "280₺"
           }
         },
@@ -1585,8 +1585,8 @@
             "price": "370₺"
           },
           "en": {
-            "name": "Ton Balıklı Akdeniz Salata",
-            "desc": "Ton Balıklı Akdeniz Salata is specially prepared with unique presentation.",
+            "name": "Tuna Mediterranean Salad",
+            "desc": "Tuna Mediterranean Salad is specially prepared with unique presentation.",
             "price": "370₺"
           }
         },
@@ -1597,8 +1597,8 @@
             "price": "320₺"
           },
           "en": {
-            "name": "Roka Salatası",
-            "desc": "Roka Salatası is specially prepared with unique presentation.",
+            "name": "Arugula Salad",
+            "desc": "Arugula Salad is specially prepared with unique presentation.",
             "price": "320₺"
           }
         }
@@ -1616,8 +1616,8 @@
             "price": "450₺"
           },
           "en": {
-            "name": "Meyve Tabağı",
-            "desc": "Meyve Tabağı is specially prepared with unique presentation.",
+            "name": "Fruit Platter",
+            "desc": "Fruit Platter is specially prepared with unique presentation.",
             "price": "450₺"
           }
         }

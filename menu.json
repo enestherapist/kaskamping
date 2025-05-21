@@ -3,7 +3,7 @@
     {
       "id": "signature_kokteyller",
       "tr": "Signature Kokteyller",
-      "en": "Signature Kokteyller",
+      "en": "Signature Cocktails",
       "items": [
         {
           "tr": {
@@ -70,7 +70,7 @@
     {
       "id": "şaraplar",
       "tr": "Şaraplar",
-      "en": "Şaraplar",
+      "en": "Wines",
       "items": [
         {
           "tr": {
@@ -264,7 +264,7 @@
     {
       "id": "viski",
       "tr": "Viski",
-      "en": "Viski",
+      "en": "Whisky",
       "items": [
         {
           "tr": {
@@ -343,7 +343,7 @@
     {
       "id": "cin",
       "tr": "Cin",
-      "en": "Cin",
+      "en": "Gin",
       "items": [
         {
           "tr": {
@@ -446,7 +446,7 @@
     {
       "id": "shot",
       "tr": "Shot",
-      "en": "Shot",
+      "en": "Shots",
       "items": [
         {
           "tr": {
@@ -501,7 +501,7 @@
     {
       "id": "rom",
       "tr": "Rom",
-      "en": "Rom",
+      "en": "Rum",
       "items": [
         {
           "tr": {
@@ -568,7 +568,7 @@
     {
       "id": "rakı",
       "tr": "Rakı",
-      "en": "Rakı",
+      "en": "Raki",
       "items": [
         {
           "tr": {
@@ -671,7 +671,7 @@
     {
       "id": "tekila",
       "tr": "Tekila",
-      "en": "Tekila",
+      "en": "Tequila",
       "items": [
         {
           "tr": {
@@ -738,7 +738,7 @@
     {
       "id": "konyak",
       "tr": "Konyak",
-      "en": "Konyak",
+      "en": "Cognac",
       "items": [
         {
           "tr": {
@@ -757,7 +757,7 @@
     {
       "id": "atıştırmalık",
       "tr": "Atıştırmalık",
-      "en": "Atıştırmalık",
+      "en": "Snacks",
       "items": [
         {
           "tr": {
@@ -812,7 +812,7 @@
     {
       "id": "soğuk_i̇çecekler",
       "tr": "Soğuk İçecekler",
-      "en": "Soğuk İçecekler",
+      "en": "Cold Drinks",
       "items": [
         {
           "tr": {
@@ -1030,7 +1030,7 @@
     {
       "id": "kokteyller",
       "tr": "Kokteyller",
-      "en": "Kokteyller",
+      "en": "Cocktails",
       "items": [
         {
           "tr": {
@@ -1181,7 +1181,7 @@
     {
       "id": "biralar",
       "tr": "Biralar",
-      "en": "Biralar",
+      "en": "Beers",
       "items": [
         {
           "tr": {
@@ -1442,7 +1442,7 @@
     {
       "id": "makarna",
       "tr": "Makarna",
-      "en": "Makarna",
+      "en": "Pasta",
       "items": [
         {
           "tr": {
@@ -1485,7 +1485,7 @@
     {
       "id": "yemek",
       "tr": "Yemek",
-      "en": "Yemek",
+      "en": "Main Dishes",
       "items": [
         {
           "tr": {
@@ -1564,7 +1564,7 @@
     {
       "id": "salata",
       "tr": "Salata",
-      "en": "Salata",
+      "en": "Salads",
       "items": [
         {
           "tr": {
@@ -1607,7 +1607,7 @@
     {
       "id": "tatlı",
       "tr": "Tatlı",
-      "en": "Tatlı",
+      "en": "Desserts",
       "items": [
         {
           "tr": {
